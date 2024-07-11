@@ -1,0 +1,10 @@
+arr=[3,1,2,10,1]
+print(arr[0])
+result1=arr[0]+arr[1]
+print(result1)
+result2=result1+arr[2]
+print(result2)
+result3=result2+arr[3]
+print(result3)
+result4=result3+arr[4]
+print(result4)
